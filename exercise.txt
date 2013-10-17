@@ -1,0 +1,33 @@
+Using AngularJS, create a service that accepts the user model described below and generates a unique identifier for the entered data.
+The service should store the data, but doesn't need to persist anything past a single session (no database is necessary).
+It is unimportant how you choose to store things during the session.
+In addition to the form, the page should include a search field with type ahead that searches contact name, but displays ContactName - CompanyName.
+When selected, the details should load into the form.
+
+Company Model:
+  Field           Type                Constraints     Notes
+  Id                                  Unique          Type is open
+  CompanyName     Alphanumeric        Max 30
+  ContactName     Alphabetic          Max 30
+  Address         Alphanumeric        Max 50
+  Email           Alphanumeric,@,.    Max 30
+  PhoneNumber     Numeric                             Accepts international formats
+  Website         Alphabetic,/,.      Max 30
+
+Validation:
+  Required: Company Name && Contact Name && (Email || Phone Number || Website)
+  A record can have the same company and contact names.  The following represents two valid records:
+    Patrina
+    John Smith
+    212-555-1212
+
+    Patrina
+    John Smith
+    john@smith.com
+
+Bonus: Build a mock backend using AngularJS’s $httpbackend and pre-populate the list of Companies when loading the initial page.
+
+TODOs
+- App config constants
+- Environment config for grunt builds (i.e. http://stackoverflow.com/questions/16339595/angular-js-configuration-for-different-enviroments)
+- More unit testing (esp. service)

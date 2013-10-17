@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers
+END
+NumberParseException.ErrorType.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/NumberParseException.ErrorType.html
+END
+PhoneNumberUtil.MatchType.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberUtil.MatchType.html
+END
+PhoneNumberMatch.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberMatch.html
+END
+PhoneNumberUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberUtil.html
+END
+NumberParseException.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/NumberParseException.html
+END
+PhoneNumberUtil.PhoneNumberType.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberUtil.PhoneNumberType.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/package-frame.html
+END
+PhoneNumberUtil.Leniency.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberUtil.Leniency.html
+END
+AsYouTypeFormatter.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/AsYouTypeFormatter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/package-summary.html
+END
+PhoneNumberUtil.ValidationResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberUtil.ValidationResult.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/package-tree.html
+END
+PhoneNumberUtil.PhoneNumberFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/191/trunk/javadoc/com/google/i18n/phonenumbers/PhoneNumberUtil.PhoneNumberFormat.html
+END

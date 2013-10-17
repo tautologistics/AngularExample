@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 74
+phonemetadata.pb.cc
+phonenumber.pb.h
+phonemetadata.pb.h
+phonenumber.pb.cc
+
+END

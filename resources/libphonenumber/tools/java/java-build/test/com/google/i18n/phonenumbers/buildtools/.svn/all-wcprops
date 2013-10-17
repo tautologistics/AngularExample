@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/616/trunk/tools/java/java-build/test/com/google/i18n/phonenumbers/buildtools
+END
+GenerateTimeZonesMapDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/616/trunk/tools/java/java-build/test/com/google/i18n/phonenumbers/buildtools/GenerateTimeZonesMapDataTest.java
+END
+GeneratePhonePrefixDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/613/trunk/tools/java/java-build/test/com/google/i18n/phonenumbers/buildtools/GeneratePhonePrefixDataTest.java
+END

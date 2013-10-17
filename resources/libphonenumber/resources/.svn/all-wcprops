@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/618/trunk/resources
+END
+PhoneNumberMetadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/611/trunk/resources/PhoneNumberMetadata.xml
+END
+phonenumber.proto
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/338/trunk/resources/phonenumber.proto
+END
+PhoneNumberMetadataForTesting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/618/trunk/resources/PhoneNumberMetadataForTesting.xml
+END
+ShortNumberMetadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/607/trunk/resources/ShortNumberMetadata.xml
+END
+phonemetadata.proto
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/611/trunk/resources/phonemetadata.proto
+END
+PhoneNumberAlternateFormats.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/607/trunk/resources/PhoneNumberAlternateFormats.xml
+END

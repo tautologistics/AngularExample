@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/584/trunk/cpp/src/phonenumbers/base
+END
+thread_checker.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/thread_checker.h
+END
+basictypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/584/trunk/cpp/src/phonenumbers/base/basictypes.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/568/trunk/cpp/src/phonenumbers/base/logging.h
+END
+template_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/569/trunk/cpp/src/phonenumbers/base/template_util.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/611/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/529/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/340/trunk/debian/compat
+END
+libphonenumber5.install
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/529/trunk/debian/libphonenumber5.install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/611/trunk/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/340/trunk/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/529/trunk/debian/rules
+END
+libphonenumber-dev.install
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/340/trunk/debian/libphonenumber-dev.install
+END
+libphonenumber-java.jlibs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/529/trunk/debian/libphonenumber-java.jlibs
+END

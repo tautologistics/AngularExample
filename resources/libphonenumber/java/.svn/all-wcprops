@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/618/trunk/java
+END
+release_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/618/trunk/java/release_notes.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/615/trunk/java/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/616/trunk/java/build.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/567/trunk/tools/cpp/src/cpp-build
+END
+generate_geocoding_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/567/trunk/tools/cpp/src/cpp-build/generate_geocoding_data.cc
+END
+generate_geocoding_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/490/trunk/tools/cpp/src/cpp-build/generate_geocoding_data.h
+END
+generate_geocoding_data_main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/476/trunk/tools/cpp/src/cpp-build/generate_geocoding_data_main.cc
+END

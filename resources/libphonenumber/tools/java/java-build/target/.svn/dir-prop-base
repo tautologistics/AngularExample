@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 102
+archive-tmp
+classes
+maven-archiver
+surefire
+surefire-reports
+test-classes
+java-build-1.0-SNAPSHOT.jar
+
+END

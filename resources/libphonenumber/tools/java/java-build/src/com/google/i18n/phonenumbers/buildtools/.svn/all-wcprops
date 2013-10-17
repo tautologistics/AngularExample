@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/616/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools
+END
+GenerateTimeZonesMapData.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/616/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools/GenerateTimeZonesMapData.java
+END
+PhonePrefixDataIOHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/613/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools/PhonePrefixDataIOHandler.java
+END
+GeneratePhonePrefixDataEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/613/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools/GeneratePhonePrefixDataEntryPoint.java
+END
+AbstractPhonePrefixDataIOHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/613/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools/AbstractPhonePrefixDataIOHandler.java
+END
+GenerateTimeZonesMapDataEntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/616/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools/GenerateTimeZonesMapDataEntryPoint.java
+END
+GeneratePhonePrefixData.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/613/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/buildtools/GeneratePhonePrefixData.java
+END

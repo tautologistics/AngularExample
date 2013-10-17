@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/616/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers
+END
+BuildMetadataJsonFromXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/603/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/BuildMetadataJsonFromXml.java
+END
+JSArrayBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/389/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/JSArrayBuilder.java
+END
+BuildMetadataProtoFromXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/600/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/BuildMetadataProtoFromXml.java
+END
+EntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/616/trunk/tools/java/java-build/src/com/google/i18n/phonenumbers/EntryPoint.java
+END

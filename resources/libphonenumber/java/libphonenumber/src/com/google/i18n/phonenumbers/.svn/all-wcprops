@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/618/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers
+END
+PhoneNumberMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/390/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/PhoneNumberMatch.java
+END
+PhoneNumberUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/618/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/PhoneNumberUtil.java
+END
+NumberParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/390/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/NumberParseException.java
+END
+Phonenumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/390/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/Phonenumber.java
+END
+ShortNumberInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/603/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/ShortNumberInfo.java
+END
+ShortNumberUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/603/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/ShortNumberUtil.java
+END
+ShortNumbersRegionCodeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/607/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/ShortNumbersRegionCodeSet.java
+END
+PhoneNumberMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/603/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/PhoneNumberMatcher.java
+END
+AsYouTypeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/603/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/AsYouTypeFormatter.java
+END
+AlternateFormatsCountryCodeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/607/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/AlternateFormatsCountryCodeSet.java
+END
+Phonemetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/611/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/Phonemetadata.java
+END
+MetadataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/603/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/MetadataManager.java
+END
+CountryCodeToRegionCodeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/590/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/CountryCodeToRegionCodeMap.java
+END
+RegexCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/390/trunk/java/libphonenumber/src/com/google/i18n/phonenumbers/RegexCache.java
+END

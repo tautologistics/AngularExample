@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/568/trunk/tools/cpp
+END
+gtest.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/531/trunk/tools/cpp/gtest.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/531/trunk/tools/cpp/CMakeLists.txt
+END

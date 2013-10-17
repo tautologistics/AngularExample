@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/482/trunk/java/demo/war/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/447/trunk/java/demo/war/WEB-INF/appengine-web.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/105/trunk/java/demo/war/WEB-INF/logging.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/105/trunk/java/demo/war/WEB-INF/web.xml
+END

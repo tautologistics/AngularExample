@@ -1,0 +1,328 @@
+NAME                  DESCRIPTION                                                   AUTHOR                DATE              VERSION     KEYWORDS
+calaxa                calaxa ======                                                 =apathetic            2013-05-14 09:11  0.0.1       yeoman-generator sass compass watch grunt jade livereload
+front-o-matic         A yeoman generator for the front Guerrilla, based on Kaleidos front stack =xaviju   2013-10-01 09:04  0.0.2       yeoman-generator front-end front-o-matic scaffold framework guerrilla kaleidos html5 less backbone
+ft-wp                 Front-Trends Wordpress generator                              =hubertburdach        2013-03-30 21:08  0.0.1       yeoman-generator web app front-end h5bp modernizr
+generator-ad          A generator for Yeoman. Creates a starting point and development workflow for creating a DFP custom ad template or execution. =mikespencer 2013-09-26 15:18  0.1.6       yeoman-generator dfp ad template
+generator-angular     Yeoman generator for AngularJS                                =sindresorhus =addyosmani =paulirish =btford =passy 2013-09-06 20:46 0.4.0       yeoman-generator scaffold framework component front-end app
+generator-angular-component A generator for Yeoman                                  =mgcrea               2013-07-11 17:08  0.2.1       yeoman-generator
+generator-angular-silex Yeoman generator for Silex based upon AngularJS             =adamquadmon          2013-05-08 17:52  0.1.2       yeoman-generator scaffold framework component front-end app silex
+generator-angularexpress Yeoman generator for AngularJS with an Express server      =gonzaloruizdevilla   2013-09-06 02:19  0.0.3       yeoman-generator scaffold angular angularjs framework component front-end express jade app
+generator-angularjs   A generator for Yeoman                                        =kevin-wolf           2013-07-26 06:32  0.3.0       yeoman-generator
+generator-angularjs-library A generator for Yeoman                                  =jvandemo             2013-08-05 08:42  1.0.2       yeoman-generator
+generator-angularseed A generator for Angular Seed                                  =vitorvigano          2013-09-04 17:36  0.1.6       yeoman-generator yo angular seed aws
+generator-anthracite  Another take on an Ember generator for Yeoman                 =geekingreen          2013-09-18 21:06  0.2.3       yeoman-generator
+generator-appengine   A generator for Yeoman                                        =danielchatfield      2013-08-11 17:16  1.1.5       yeoman-generator
+generator-appfog      An appfog setup generator for Yeoman                          =kumabotz             2013-10-05 04:54  0.0.6       yeoman-generator
+generator-ariatemplates An Aria Templates generator for Yeoman                      =ariatemplates        2013-09-25 08:07  0.1.3       yeoman-generator aria-templates aria templates
+generator-armadillo   Yeoman generator for static websites                          =snugug               2013-06-13 01:54  0.1.8       yeoman-generator web app front-end h5bp modernizr
+generator-arsk        An AngularJS/RequireJS generator for Yeoman                   =arnaudpiroelle       2013-09-15 18:32  0.0.4       yeoman-generator
+generator-assemble    The scaffolding for Assemble                                  =hariadi =jonschlinkert =doowb 2013-09-05 10:57 0.3.9       yeoman-generator assemble grunt
+generator-atlassian-connect A generator for Yeoman                                  =rmanalan             2013-07-26 01:25  0.0.0       yeoman-generator
+generator-aura        Yeoman generator for Aura.js                                  =dotcypress =addyosmani 2013-09-05 19:24 0.2.0       yeoman-generator yeoman generator framework aura
+generator-backbone    Yeoman generator for Backbone.js                              =sindresorhus =addyosmani =paulirish =revathskumar =passy 2013-09-06 20:46 0.1.9       yeoman-generator scaffold framework mvc backbone
+generator-backbone-amd generator-backbone-amd ======================                =abiee                2013-04-02 05:10  0.0.2       yeoman-generator yeoman generator framework mvc
+generator-backbone-module A Yeoman generator for distributable Backbone.js modules. =nackjicholson        2013-06-08 18:25  0.2.2       yeoman-generator backbone umd amd backbone-module yeoman grunt travis ci
+generator-backstrap   A Yeoman generator for kickass Backbone, Bootstrap, and CoffeeScript-powered apps =giladgray 2013-09-11 22:15  0.2.0       yeoman-generator backbone boilerplate boostrap coffeescript coffee webapp
+generator-baffled     Bootstrap + Angular + Firebase + Flat-UI                      =kendugu              2013-09-15 21:12  0.1.1       yeoman-generator scaffold framework component front-end app bootstrap angular firebase flat-ui
+generator-bakefrontend A generator for Yeoman                                       =hasft                2013-10-08 06:45  0.0.1       yeoman-generator
+generator-bane        A generator for Yeoman                                        =ftzeng               2013-08-02 16:41  0.4.0       yeoman-generator
+generator-barista     Yeoman generator for Barista                                  =trimeego             2013-03-26 17:43  0.2.2       yeoman-generator yeoman generator test runner
+generator-barry       A generator for Yeoman. Generator that gives you ability to rapidly scaffold a front-end development app. With Jade and Stylus. =dkunin 2013-10-04 06:21  0.1.4       yeoman-generator barry rapid webdev rapid-development fast flash jade stylus connect awesome livereload
+generator-baseline    A Yeoman generator that scaffolds out a simple static site    =bdielman             2013-09-25 04:17  0.2.5       yeoman-generator web static sass
+generator-basics      A generator for Yeoman to use with the Basics Backbone.js Boilerplate. =codykm      2013-08-31 04:20  0.2.1       yeoman-generator backbone basics
+generator-bb          A backbone generator for Yeoman                               =janjarfalk           2013-05-29 22:45  0.0.0       yeoman-generator
+generator-bbapp       A generator for Yeoman                                        =disintegrator        2013-09-02 02:45  0.0.2       yeoman-generator
+generator-bbb         Backbone Boilerplate Yeoman generator.                        =sindresorhus =addyosmani =paulirish =revathskumar =sboudrias =tbranyen =passy 2013-09-30 02:33 0.3.1       yeoman-generator backbone-boilerplate backbone
+generator-bbe         Yeoman generator for Backbone and Express                     =nathanstaines        2013-08-24 13:33  0.1.3       yeoman-generator scaffold framework mvc backbone express node
+generator-bbproject   Front end project boilerplate for Less based sites. Used at Building Blocks Ltd. =johncashbb =pwelshbb 2013-08-20 08:33  0.3.4       yeoman-generator less framework buildingblocks
+generator-bcapi       A generator for Conduit Toolbar Apps using the BCAPI.js       =pbojinov             2013-09-12 23:17  0.0.5       yeoman-generator conduit generator-bcapi
+generator-beefy       A beefy generator for Yeoman                                  =drk                  2013-08-23 23:57  0.0.1       yeoman-generator
+generator-bespoke     Yeoman generator for Bespoke.js                               =markdalgleish        2013-09-27 02:49  0.4.1       yeoman-generator scaffold presentation
+generator-bespokeplugin Yeoman generator for Bespoke.js plugins                     =markdalgleish        2013-09-18 21:14  0.1.3       yeoman-generator
+generator-bibliosoph  Generate a bibliosoph base using Yeoman                       =karellm              2013-08-10 22:08  0.2.0       yeoman-generator
+generator-biz         generator for BIZ                                             =abc-team             2013-06-21 07:59  0.1.8       yeoman-generator ABC BIZ
+generator-blacksmith  Yeoman generator for blacksmith                               =ragingwind           2013-09-17 12:59  0.1.2       yeoman-generator blacksmith blog blogging
+generator-blog        A generator for Yeoman                                        =nukr                 2013-07-08 18:14  0.0.0       yeoman-generator
+generator-bluemix     Coming soon... A generator for bluemix                        =csantanapr           2013-09-13 13:45  0.0.0       yeoman-generator
+generator-boilerplate Yeoman Generator for ...                                      =addyosmani           2013-04-23 09:57  0.1.4       yeoman-generator
+generator-bones       Yeoman generator for scaffolding out a basic web project.     =mattbailey           2013-07-12 13:08  0.0.2       yeoman-generator bones skin theme front-end
+generator-booang      Latest Angular and Boostrap generator. Based on the MEAN stack generator for Yeoman. Angular 1.2.0-rc.2 and Bootstrap 3 =diegovallarta 2013-09-28 15:24  0.0.3       yeoman-generator angular bootstrap
+generator-bookmarklet Yeoman Generator for bookmarklets                             =passy                2013-08-13 16:51  0.1.2       yeoman-generator bookmarklet
+generator-bootstrap   Yeoman generator for Twitter Bootstrap                        =sindresorhus =addyosmani =paulirish =btford =passy =stephenplusplus 2013-09-06 20:46 0.1.4       yeoman-generator framework component bootstrap ui css sass less
+generator-bootstrap-less Yeoman generator for bootstrap less                        =thomaslebeau         2013-08-28 05:25  3.0.3       yeoman-generator less yeoman generator bootsrap font-awesome glyphicons
+generator-bootstrap3-less Yeoman generator fo twitter bootstrap3 less               =knownasilya          2013-07-31 19:29  3.0.1       yeoman-generator less yeoman generator bootstrap bootstrap 3 twitter font-awesome
+generator-bower       A yeoman generator for bower components                       =thorstenhans         2013-06-27 21:02  0.0.1       yeoman-generator bower bower-component coffee-script tdd
+generator-brayns      A generator for Yeoman for Bootstrap, Restify, AngularJS, Yeoman, Node, and Stylus. =jamescostian 2013-05-23 21:20  0.1.2       yeoman-generator
+generator-breakpoint  A Yeoman generator for starting a project with Breakpoint     =lesjames             2013-09-18 20:20  1.2.2       yeoman-generator breakpoint
+generator-brei-app    A generator for BarkleyREI projects                           =nessthehero          2013-09-18 14:03  0.5.0       yeoman-generator barkleyrei brei
+generator-btapp       BitTorrent btapp.js web app yeoman generator                  =pwmckenna            2013-05-16 23:52  0.2.8       yeoman-generator web app front-end bittorrent btapp torque
+generator-buster      generator-buster ================                             =abiee                2013-04-02 05:05  0.0.1       yeoman-generator yeoman generator test runner
+generator-cagspa      A generator for Single Page Applications                      =gmaggess             2013-05-17 20:58  0.0.0       cag single page application yeoman-generator
+generator-cakephp     CakePHP Generator                                             =hyra                 2013-09-04 08:36  0.0.3       yeoman-generator cakephp
+generator-campuskit   A Yeoman generator for CampusKit                              =trott                2013-08-29 04:10  0.6.6       yeoman-generator
+generator-can         Yeoman generator for CanJS                                    =smarkle              2013-08-30 16:04  0.0.1       yeoman-generator yeoman generator framework component front-end app
+generator-canjs       CanJS generator for Yeoman                                    =retro                2013-08-29 11:56  0.0.5       yeoman-generator canjs canjs-generator
+generator-carlosypunto A generator for Yeoman. Generate simple require.js workflow with test =carlosypunto 2013-05-03 18:20  0.0.1       yeoman-generator
+generator-cg-angular  Yeoman Generator for Enterprise Angular projects.             =cgross               2013-09-06 20:16  1.0.4       yeoman-generator
+generator-charcoal    Alternative Yeoman generator for Ember                        =tboyt                2013-06-14 14:14  0.2.2       yeoman-generator scaffold generator framework mvc ember charcoal
+generator-chrome-extension Yeoman generator for Chrome Extensions                   =sindresorhus =ragingwind =addyosmani =paulirish =passy =kevva 2013-09-10 01:04 0.2.5       yeoman-generator chrome extension addon
+generator-chromeapp   Yeoman generator for Chrome App                               =sindresorhus =addyosmani =paulirish =passy =ragingwind 2013-09-12 00:03 0.2.3       yeoman-generator scaffold chrome app
+generator-cityjs      Yeoman generator for CityJS                                   =dotcypress           2013-04-04 12:28  0.0.6       yeoman-generator yeoman generator framework cityjs
+generator-clam        A Clam generator for Yeoman                                   =bachi =wayfind =gourdboy =paulguo =aloysious 2013-09-30 08:01 0.1.3       yeoman-generator clam generator-clam
+generator-closure     Generator for Closure Library                                 =thanpolas            2013-06-03 10:38  0.1.7       yeoman-generator yeoman generator framework component front-end app closure closure boilerplate closure library boilerplate boilerplate closure library
+generator-coffee      A coffee generator for Yeoman                                 =pismute              2013-10-05 01:25  0.0.1       yeoman-generator scaffold node coffee-script
+generator-colorme     A generator for Yeoman                                        =roblevin             2013-06-17 15:13  0.0.0       yeoman-generator
+generator-column      A generator for Yeoman                                        =mattcreager          2013-09-22 03:06  0.0.2       yeoman-generator
+generator-commander   A commander-cli generator for Yeoman                          =hypercubed           2013-09-10 14:42  0.0.8       yeoman-generator commander cli
+generator-commonjs    A CommonJS generator for Yeoman                               =addyosmani =sindresorhus =passy 2013-09-17 21:22 0.0.6       yeoman-generator scaffold
+generator-compass-extension Yeoman generator for Compass Extensions                 =snugug               2013-08-12 21:17  0.0.1       yeoman-generator web app sass compass
+generator-component   A Yeoman generator for components.                            =kenan                2013-05-22 02:00  1.3.0       yeoman-generator
+generator-coral       A simple generator for Yeoman                                 =acroidea             2013-09-09 07:21  0.3.5       yeoman-generator
+generator-cordova     A generator for Yeoman                                        =dangeross            2013-09-23 16:33  0.0.5       yeoman-generator
+generator-cordova-plugin A generator for Yeoman                                     =lholmquist           2013-10-03 18:09  0.0.3       yeoman-generator cordova phonegap plugins
+generator-couchapp    Scaffold out a front-end web app; based on generator-webapp   =garbados             2013-09-28 14:56  0.1.0       yeoman-generator web app front-end h5bp modernizr couchdb couchapp
+generator-crtrdg      A generator for Yeoman                                        =sethvincent          2013-09-18 23:00  0.0.3       yeoman-generator
+generator-cucumber    Yeoman generator for Cucumber.js                              =lkanio               2013-02-17 21:34  0.1.0       yeoman-generator yeoman generator unit test bdd tdd cucumber
+generator-d3chart     A Yeoman generator for d3.chart                               =krishantaylor        2013-09-08 16:14  0.1.1       yeoman-generator d3 d3chart
+generator-dalekjs     A DalekJS generator for Yeoman                                =asciidisco           2013-09-17 14:17  0.0.1       yeoman-generator dalekjs
+generator-dalekjs-canary A DalekJS generator for Yeoman                             =asciidisco           2013-09-17 14:20  0.0.1-2013-09-17-14-20-23 yeoman-generator dalekjs
+generator-davteam     A generator for Yeoman                                        =radiodario           2013-10-04 10:33  0.0.1       yeoman-generator
+generator-dawg        A generator for Yeoman                                        =phillipalexander     2013-09-12 02:55  0.0.0       yeoman-generator
+generator-dc-template A template for DoubleClick HTML5 Ad                           =leohxj               2013-09-11 01:41  0.0.5       yeoman-generator
+generator-deckjs      A generator for Yeoman                                        =dvberkel             2013-06-22 16:03  0.1.0       yeoman-generator
+generator-dotfiles    Get started with your projects quickly using this generator to scaffold out a basic set of dotfiles. =kevva 2013-04-25 17:29  0.1.0       yeoman-generator
+generator-drought     A generator for Yeoman                                        =fleeting             2013-10-07 22:23  0.0.0       yeoman-generator yeoman drought monkeecreate generator
+generator-drupalmodule Yeoman generator for drupal modules                          =davidgenetic         2013-08-29 20:54  0.1.2       yeoman-generator
+generator-drupaltheme A generator for Yeoman                                        =pixelmord            2013-06-07 08:30  0.0.0       yeoman-generator
+generator-dude        A Yeoman generator for Dojo Unified Development Environment (dude) mobile web and cordova =csantanapr 2013-09-14 01:40  0.1.3       yeoman-generator cordova dojo dojotoolkit yeoman bower grunt gruntjs dude
+generator-easy        An EASY stack generator, Express Angular Stylus Yeoman        =gdi2290              2013-09-24 07:15  0.0.3       yeoman-generator Express Angular Stylus Yeoman EASY app EASY Yeoman Styl Stylus Angular Express
+generator-easyapp     An EASY stack generator, Express Angular Styl Yeoman          =gdi2290              2013-08-28 01:19  0.0.1       yeoman-generator Express Angular Styl Yeoman EASY app EASY Yeoman Styl Angular Express
+generator-egghead     Egghead.io lesson source code, courtesy of msfrisbie          =hanibash             2013-06-21 01:33  0.0.0       yeoman-generator
+generator-ember       Yeoman generator for Ember                                    =inkredabull =sindresorhus =passy 2013-09-06 20:46 0.6.2       yeoman-generator scaffold generator framework mvc ember
+generator-ember-jade-zurb Yeoman generator for Ember Jade Zurb                      =aaronz8              2013-09-05 21:55  0.0.7       yeoman-generator scaffold generator framework mvc ember jade zurb
+generator-ember-jade-zurb-express Yeoman generator for Ember Jade Zurb Express      =aaronz8              2013-09-06 05:57  0.0.1       yeoman-generator scaffold generator framework mvc ember jade zurb
+generator-ember-laravel A generator creating ember specific templates in a laravel world =cullymason        2013-09-11 16:09  0.6.0       yeoman-generator emberjs laravel
+generator-ember-less  Yeoman generator for Ember with Less and other libraries forked from original generator-ember =vsiguero 2013-10-08 13:55  0.1.0       yeoman-generator scaffold generator framework mvc ember bootstrap less
+generator-epom        A Yeoman generator for the E(iffel) P(ersistent) O(bjects) M(anagement) library =oligot 2013-09-18 12:38  0.1.0       yeoman-generator
+generator-express     A nodejs express generator for Yeoman                         =petecoop             2013-09-19 20:33  1.0.6       yeoman-generator express scaffold
+generator-express-angular Yeoman generator for AngularJS + Express                  =nasa                 2013-07-30 20:51  0.2.7       yeoman-generator scaffold framework component front-end app
+generator-express-simple An express generator for Yeoman                            =ngenerio             2013-09-15 19:50  0.3.9       express-simple yeoman-generator yo-express yeoman-generator-express-simple
+generator-expressapp  A expressjs generator for Yeoman                              =infindex             2013-07-23 08:12  0.0.0       yeoman-generator
+generator-expressjs   A generator for Yeoman                                        =nukr                 2013-07-08 18:53  0.0.0       yeoman-generator
+generator-fe          A generator for yeoman to kickstart web projects frontend using bootstrap, foundation, less, sass and assemble. =thommeo 2013-06-27 12:29  0.1.5       yeoman-generator bootstrap foundation
+generator-firefox-os  Yeoman Generator for Firefox OS                               =zenorocha            2013-08-27 03:03  0.1.4       yeoman-generator firefoxos firefox-os firefox os
+generator-firefoxos   A Yeoman generator for Firefox OS apps                        =ladybenko            2013-08-29 13:39  0.1.4       yeoman-generator firefoxos
+generator-flask       Yeoman generator for Flask project                            =romainberger         2013-09-07 22:46  1.2.1       yeoman yeoman-generator yo python flask frameworks micro frameworks generator cli tool development
+generator-flight      Generator for scaffolding out a Flight web app                =necolas              2013-08-30 23:48  0.5.2       app flight framework generator web yeoman-generator
+generator-flight-package Generator for scaffolding out a Flight component           =necolas              2013-08-26 06:34  0.3.0       package flight framework generator web yeoman-generator
+generator-flightangular A WebApp Generator for Yeoman: FlightPHP + MongoDB backend, AngularJS frontend. =oddessay 2013-09-14 11:59  0.1.1       yeoman-generator angularjs flightphp
+generator-fluidity    This generator will create a front-end development environment using Express, Coffeescript, and Stylus with Fluidity. It will create a base app and file structure. Using the 'grunt dev' task you'll have features like live-reload on both the client-side and server-side changes to view files and coffee-hinting throughout the entire app. Using the 'grunt build' task will concat/compress/minify/lint/hint client-side js/css and dynamically generate documentation using docco and a generated styleguide with styldocco. =inkspeck 2013-09-30 18:54  0.1.3       yeoman-generator generator-fluidity fluidity stylus front-end development express js coffeescript live-reload
+generator-footguard   Yeoman generator for single page application                  =mazerte              2013-09-06 21:14  0.2.6       yeoman-generator yeoman generator framework bower coffeescript requirejs backbone front-end bootstrap workflow mocha unit test app
+generator-foundation  Yeoman generator for Stylus themes, especially zurb foundation CSS framework =brian.lai 2013-04-29 07:17  0.5.0       yeoman-generator yeoman generator stylus zurb foundation
+generator-frontend    Scaffolds out a boilerplate for front-end development.        =weiss                2013-09-27 09:39  2.1.0       yeoman-generator
+generator-frozen      A generator for Yeoman                                        =phated               2013-08-27 21:55  0.2.1       yeoman-generator
+generator-ftbpro      A generator for Yeoman                                        =igoldny              2013-09-12 13:58  0.0.0       yeoman-generator
+generator-fxos        Firefox OS Generator for grunt-fxos                           =vladikoff            2013-06-27 19:15  0.1.1       yeoman-generator generator-yeoman
+generator-generator   Generator Generator for Yeoman                                =passy =sindresorhus =paulirish =addyosmani 2013-08-08 18:17 0.3.0       yeoman-generator
+generator-generatorcs CoffeeScript Generator Generator for Yeoman                   =tuxracer             2013-08-26 04:23  0.3.1       yeoman-generator coffeescript
+generator-genesis     Yeoman Generator for Genesis Skeleton                         =ericclemmons         2013-07-09 04:53  0.3.0       yeoman-generator express skeleton angular
+generator-genesis-wordpress Yeoman generator for Genesis WordPress                  =ericclemmons         2013-10-07 15:10  0.1.4       yeoman-generator
+generator-genlaravel  A Yeoman generator for Laravel                                =vijaysai             2013-08-27 18:43  1.0.0       yeoman-generator laravel yeoman generator cli
+generator-git         simple git project generator                                  =phillipalexander     2013-08-15 19:11  0.0.2       yeoman-generator scaffold git node
+generator-go-angular  Yeoman generator for AngularJS + Go                           =teerapap             2013-09-14 15:44  0.1.1       yeoman-generator scaffold framework component front-end go golang app
+generator-go-static   Go-Static! is a static site generator that employs the tools developers already know and love. Yeoman to scaffold out your project and Grunt to generate the output. =colynb 2013-09-21 22:18  0.1.2       yeoman-generator content management system cms static site generator generator grunt grunt build framework build builder blog scaffold
+generator-gpmd        Modified Yeoman generator for scaffolding out a front-end web app =mattbailey       2013-04-26 15:49  0.0.1       yeoman-generator web app front-end h5bp modernizr inuit suit gpmd
+generator-gram        gram generator                                                =kuninori             2013-09-10 14:13  0.0.4       yeoman-generator
+generator-graphic     A generator for Yeoman                                        =kevin.schaul         2013-09-26 22:06  0.0.0       yeoman-generator
+generator-gruig       A generator for Yeoman                                        =polem                2013-10-02 06:27  0.0.1       yeoman-generator
+generator-grunt-static-site A Yeoman generator for creating static sites that use grunt, browserify, ejs, and deploy to GitHub Pages. =sethvincent 2013-09-24 02:04  0.0.8       yeoman-generator
+generator-gruntfile   A gruntfile generator for Yeoman                              =addyosmani =sindresorhus =passy =kevva 2013-10-01 13:17 0.0.6       yeoman-generator scaffold
+generator-gruntplugin A Grunt plugin generator for Yeoman                           =addyosmani =sindresorhus =passy 2013-07-25 14:28 0.0.3       yeoman-generator scaffold grunt
+generator-gumby       Yeoman generator for Gumby 2 Framework                        =bauschan             2013-09-02 19:11  0.2.1       yeoman-generator gumby rwd
+generator-h5bp        HTML5 Boilerplate generator                                   =sindresorhus =necolas =alrra 2013-09-20 16:04 0.1.6       yeoman-generator html boilerplate template
+generator-hapi        A Hapi.js generator for Yeoman                                =thegoleffect         2013-08-02 09:45  0.0.1       yeoman-generator
+generator-hashirama   A generator for Yeoman                                        =tisvasconcelos       2013-08-27 18:13  0.0.6       yeoman-generator compass
+generator-hatchery    A generator for Yeoman                                        =nepahka              2013-10-03 14:34  0.4.2       yeoman-generator
+generator-hazdev-webapp A generator for Yeoman used by the USGS EHP HazDev team.    =emartinez-usgs       2013-09-25 23:46  0.0.4       yeoman-generator usgs usgs-ehp usgs-ehp-hazdev
+generator-hazdev-weblib A generator for Yeoman used by the USGS EHP HazDev team.    =emartinez-usgs       2013-09-16 19:46  0.0.0       yeoman-generator usgs usgs-ehp usgs-ehp-hazdev
+generator-hbswebapp   Default Yeoman generator for scaffolding out a front-end web app =blackbing         2013-06-07 18:03  0.2.4       yeoman-generator web app front-end h5bp modernizr handlebar hbs
+generator-heroku      A heroku setup generator for Yeoman                           =passy                2013-08-25 19:59  0.0.6       yeoman-generator
+generator-hoodie      A generator for hoodie                                        =roka                 2013-09-25 07:15  0.1.4       yeoman-generator hoodie nobackend
+generator-horn-static A simple generator for Yeoman                                 =acroidea             2013-09-23 07:02  0.3.5       yeoman-generator
+generator-hotpot      A generator for Yeoman                                        =ftzeng               2013-08-02 15:18  0.1.2       yeoman-generator
+generator-html5-site  html5 web site generator                                      =xzf158               2013-06-10 03:56  0.3.4       yeoman-generator
+generator-htmlemail   HTML Email boilerplate generator for Yeoman                   =jahvi                2013-09-17 16:16  0.3.1       yeoman-generator email html grunt premailer
+generator-htmler      A generator for Yeoman                                        =xydudu               2013-08-08 09:16  0.2.1       yeoman-generator html
+generator-impress     A Impress.js generator for Yeoman                             =slara                2013-08-27 20:24  0.0.2       generator-impress yeoman-generator
+generator-init        A generator for generating generators in Yeoman               =kevva                2013-04-26 00:28  0.1.0       yeoman-generator
+generator-ink         A generator for Yeoman that sets up an Ink project template   =rogeriopvl           2013-10-08 11:21  0.0.1       yeoman-generator ink inkjs
+generator-iomante     A generator for Yeoman                                        =sansyo               2013-08-29 23:45  0.2.1       yeoman-generator
+generator-iris        Scaffold out a front-end Iris web app                         =surtich              2013-10-07 19:12  0.1.1       iris-generator yeoman-generator web app front-end mvc MVC
+generator-jade        A yo generator for jade projects                              =rich_pb              2013-08-27 09:26  0.4.0       yeoman-generator jade stylus
+generator-jasmine     Yeoman generator for Jasmine                                  =sindresorhus =addyosmani =paulirish 2013-04-15 19:34 0.1.1       yeoman-generator scaffold unit test bdd
+generator-jbc         generator for JBC                                             =jbc-team             2013-07-18 15:16  1.1.3       yeoman-generator JBC
+generator-jekyll      A generator for Yeoman                                        =thomaslebeau         2013-05-20 11:42  0.1.0       yeoman-generator yeoman generator jekyll h5bp modernizr
+generator-jekyllrb    Supercharge Jekyll development with Yeoman. Yo, Jekyllrb!     =robwierzbowski       2013-09-09 06:23  0.4.0       yeoman-generator jekyll jekyllrb static front-end web site h5bp sass compass coffeescript autoprefixer
+generator-jing        A website build tool from Yeoman                              =leohxj               2013-07-16 14:55  0.1.1       yeoman-generator
+generator-joosy       A generator for Yeoman                                        =inossidabile         2013-09-07 20:21  1.0.0-RC3   yeoman-generator
+generator-jquery      A jQuery generator for Yeoman                                 =addyosmani =sindresorhus =passy =stephenplusplus 2013-09-06 20:46 0.0.5       yeoman-generator scaffold jquery
+generator-jquery-boilerplate Yeoman Generator for jQuery Boilerplate                =zenorocha            2013-08-08 11:34  0.1.2       yeoman-generator jquery-boilerplate jquery-plugins jquery yeoman
+generator-jquery-mobile Yeoman generator for jQuery Mobile Framework                =bauschan             2013-08-28 07:51  0.1.3       yeoman-generator scaffold jquery rwd mobile twitter boostrap theme
+generator-js-library  Yeoman Generator for client-side JS Libraries, w/ Karma Runner =ironfroggy          2013-05-04 02:27  0.1.0       yeoman-generator
+generator-jsmodule    Generator for scaffolding out a JavaScript module for Node.js or the browser =necolas 2013-08-25 06:56  0.2.0       browser component dom generator javascript web yeoman-generator
+generator-kabam       Yeoman generator for Kabam                                    =muhammadghazali      2013-09-24 09:40  0.1.1       yeoman-generator kabam generator
+generator-karma       Yeoman generator for Karma                                    =sindresorhus =btford =paulirish =addyosmani =passy 2013-09-06 20:46 0.5.0       yeoman-generator scaffold test runner
+generator-karma-plugins A generator for Yeoman                                      =deepak_robo          2013-08-06 23:31  0.0.0       yeoman-generator
+generator-kbc-ui-app  Yeoman generator for Keboola Connection UI application        =halama               2013-10-04 14:02  0.0.15      yeoman-generator keboola scaffold framework component front-end app
+generator-kickoff     A generator for Yeoman                                        =mrmartineau          2013-10-03 13:52  0.3.0       yeoman-generator
+generator-kissy-cake  Yeoman Generator for KISSY-Cake                               =abc-team             2013-10-08 15:16  0.4.0       yeoman-generator abc kissy-cake yeoman
+generator-kissy-gallery kissy gallery generator                                     =abc-team             2013-09-24 12:33  0.2.7       yeoman-generator,kissy-gallery yeoman generator
+generator-kissy-pie   Yeoman Generator for kissy pie                                =abc-team             2013-07-27 07:34  0.2.3       yeoman-generator abc-generator
+generator-knockout    A knockout generator for Yeoman                               =bmac                 2013-08-26 00:11  0.5.0       yeoman-generator knockout
+generator-komponent   A Yeoman generator for Komponents                             =gvn                  2013-09-23 06:25  0.1.1       yeoman-generator
+generator-landing-page Fork of default Yeoman generator, with optional landing page features such as social buttons and email signup. =quartzmo 2013-06-05 18:22  0.1.0       yeoman-generator landing page marketing site social email product h5bp bootstrap
+generator-laph        A generator for webapps that uses Lungo + Angular and is meant to be built for Phonegap =i8ramin 2013-09-16 16:06  0.0.1       yeoman-generator phonegap lungo angular
+generator-laravel     A generator for Laravel (with Yeoman)                         =freyskeyd            2013-10-02 11:48  0.1.1       yeoman-generator freyskeyd
+generator-lean        Generator for scaffolding out a simple web application        =kevva                2013-09-25 12:40  0.1.7       app generator suit web yeoman-generator
+generator-lessapp     Edited default Yeoman generator for scaffolding out a front-end web app with Twitter Bootstrap in LESS =robinpokorny 2013-09-06 13:52  0.2.1       yeoman-generator web app front-end h5bp modernizr less
+generator-library     A JavaScript Library Generator for Yeoman                     =chrisenytc           2013-09-24 17:49  0.0.3       yeoman-generator
+generator-license     License generator for Yeoman based projects.                  =jozefizso            2013-09-09 11:48  1.0.3       yeoman-generator yeoman generator license
+generator-lincsapp    A Yeoman generator for LINCS webapps                          =coreyflynn           2013-09-10 15:21  0.2.1       yeoman-generator
+generator-lqm         A Lungo-Quo-Monocle MVC app generator for Yeoman              =eduludi              2013-10-04 08:07  0.2.3       yeoman-generator yeoman generator mvc lungo quo monocle
+generator-make        A Yeoman generator for the Make front-end boilerplate.        =brandonminch         2013-06-10 23:02  0.1.1       yeoman-generator
+generator-maria       A generator for Yeoman                                        =revathskumar         2013-07-09 20:45  0.1.2       yeoman-generator MariaJS Boilerplate yeoman
+generator-marionette  Yeoman generator for Express, Marionette and Backbone with AMD =mrichard            2013-08-24 17:58  0.1.3       yeoman-generator yeoman generator marionette backbone framework mvc
+generator-marklogic   A MarkLogic REST + Roxy + Angular + Bootstrap generator for Yeoman =paxtonhare      2013-09-26 18:34  0.0.0       yeoman-generator MarkLogic roxy angular bootstrap
+generator-maryo       A Marionette and backbone generator for Yeoman with Require and Dust templates. =simonblee 2013-09-14 01:44  0.1.6       yeoman generator yeoman-generator marionette backbone dust dustjs
+generator-mdpress     A generator for Yeoman to create mdpress presentations.       =btholt               2013-05-17 05:24  0.2.0       yeoman-generator web presentation front-end mdpress markdown scaffold
+generator-mean        A Yeoman generator for MEAN stack, inspired by mean.io        =jrcryer              2013-10-08 07:57  0.0.2       yeoman-generator
+generator-meanis      Yeoman generator for Meanis                                   =chrisenytc           2013-08-03 23:40  1.0.0       yeoman-generator meanis i18next socket.io
+generator-meanstack   The MEAN stack generator for Yeoman.                          =wlepinski            2013-09-17 01:10  0.0.5       yeoman-generator
+generator-meteor      A generator for Yeoman                                        =Jonathan Pidgeon     2013-10-05 20:01  0.1.3       yeoman-generator meteor
+generator-microlib    A Yeoman generator for browser microlibs                      =asbjornenge          2013-10-01 08:00  0.2.2       yeoman-generator browser component dom generator javascript web buildtool
+generator-mithgrid    A generator for Yeoman                                        =selvam               2013-09-27 11:47  0.0.1       yeoman-generator mithgrid javascript library
+generator-mixdown     A generator for Yeoman                                        =cappslock =tommydudebreaux 2013-10-01 20:39 1.0.1       yeoman-generator
+generator-mixdown-plugin A generator for Yeoman                                     =tommydudebreaux      2013-09-17 15:44  0.0.1       yeoman-generator
+generator-mixtape     A Yeoman generator for my favorite Javascript frameworks compiled into a mixtape. =brucecoddington 2013-08-14 23:40  0.0.4       yeoman-generator
+generator-mm-project  A generator for Yeoman. Designed for Mobile Marketing Dept with heart. =pushiming   2013-06-25 06:50  1.2.1       yeoman-generator taobao ued mobile marketing
+generator-mo          Another Yeoman Generator. My personal generator for ChaplinJS, SASS and testing. =cweissde 2013-08-26 09:26  0.1.6       yeoman-generator
+generator-mobile      Mobile generator for scaffolding out a mobile-first webapp    =gauntface =addyosmani 2013-09-23 14:14 0.0.2       yeoman-generator web app front-end h5bp modernizr mobile
+generator-mobile-boilerplate H5BP Mobile Boilerplate generator                      =sindresorhus =necolas =alrra 2013-07-24 13:23 0.2.1       yeoman-generator html boilerplate template
+generator-mocha       Yeoman generator for Mocha                                    =sindresorhus         2013-04-08 15:22  0.1.1       yeoman-generator yeoman generator unit test bdd tdd
+generator-mocha-amd   Yeoman generator for Mocha a la AMD                           =mrichard             2013-08-24 14:50  0.2.0       yeoman-generator scaffold unit test bdd tdd marionette
+generator-mocha-testem Yeoman generator for Mocha+Testem                            =callumlocke          2013-09-02 14:42  0.1.4       yeoman-generator scaffold unit test bdd tdd
+generator-monster     A yeoman generator for our typical workflow                   =justinvdm            2013-09-02 21:16  0.2.1       yeoman-generator web app
+generator-mui         Yeoman generator for mui.                                     =yokubee              2013-09-15 03:01  1.0.4       yeoman-generator mui
+generator-nando-polymer A generator for Yeoman                                      =hectorfhurtado       2013-09-09 00:00  0.0.1       yeoman-generator polymer
+generator-ng          A generator for Yeoman                                        =even                 2013-08-28 19:30  0.1.3       yeoman-generator angular ng yeoman automate
+generator-ngless      Angular/LESScss generator for yeoman                          =therebelrobot        2013-09-29 23:22  0.1.2       yeoman-generator angular less ngless css
+generator-nglue       Yeoman generator for Angular gluing re-usable components      =eladelrom            2013-08-21 15:12  0.0.26-1    yeoman-generator, angular, angularjs, angular component, angular re-usable components, angular modules
+generator-nib         A generator for front-end components                          =anthonyshort         2013-09-25 05:04  0.0.0       yeoman-generator
+generator-node        A node generator for Yeoman                                   =addyosmani =sindresorhus =passy =kevva 2013-09-06 20:46 0.0.5       yeoman-generator scaffold node
+generator-node-coffee A node generator for Yeoman for Coffee-Script projects        =raynode              2013-09-08 12:59  0.0.3       yeoman-generator scaffold node coffee coffee-script
+generator-node-webkit A generator for node-webkit                                   =dica-developer       2013-10-03 08:51  0.1.0       yeoman-generator node-webkit
+generator-nodeapp     A yeoman generator for a BDD node js application              =alexishevia          2013-05-05 23:05  0.1.0       yeoman-generator
+generator-nodejs      A Yeoman generator for node.js modules                        =eugeneware           2013-10-05 07:15  0.0.7       yeoman-generator mocha yeoman generator node.js nodejs node grunt grunt-mocha yo module modules
+generator-nodestrap   Yeoman generator for a Heroku-ready, coffee-fueled web stack. =raine                2013-06-01 01:13  1.0.2       yeoman-generator
+generator-noscript    Noscript project generator for Yeoman                         =lapple               2013-08-29 12:21  0.0.6       yeoman-generator
+generator-okroshka    generator-okroshka is an easy way to start project with AMD, TDD and BDD. =apk      2013-09-21 08:44  0.0.1       yeoman-generator
+generator-omni-module Write clean modern JS modules that run everywhere             =begriffs             2013-09-13 19:04  1.0.0       yeoman-generator module npm bower amd commonjs
+generator-ozjs        Scaffolding tool for OzJS which offers a packaging workflow integrates toolchain, micro-framework and many best practices =dexteryy 2013-07-10 10:47  0.2.2       yeoman-generator yeoman scaffolding generator framework component front-end app
+generator-phalcon     Let Yeoman generate a new Phalcon multi module project.       =michaelkrone         2013-09-24 10:15  0.0.3       yeoman-generator
+generator-phonegap    PhoneGap project generator                                    =hypermurea           2013-09-18 06:58  0.1.1       yeoman-generator phonegap wp8 ios android
+generator-phonegap-backbone A Yeoman generator for Phonegap/Backbone projects       =jclem                2013-05-24 01:26  0.0.0       yeoman-generator
+generator-php         A php web project generator for Yeoman                        =bradleycorn          2013-09-05 21:10  0.1.0       yeoman-generator php web html generator
+generator-php-library A generator for Yeoman to generate boilerplate for a PHP library with support for PHPUnit =jvandemo 2013-09-26 12:31  1.0.0       yeoman-generator php phpunit
+generator-pix         A generator for Yeoman                                        =kmsheng              2013-05-19 15:17  0.0.0       yeoman-generator
+generator-plonemockup A Plone mockup generator for Yeoman                           =frapell              2013-09-28 17:13  0.0.3       yeoman-generator plone mockup
+generator-poet        A generator for a blog powered by Poet using Yeoman           =akshayp              2013-09-10 04:07  0.0.3       yeoman-generator poet wordpress
+generator-polymer     Yeoman generator for Polymer                                  =sindresorhus =addyosmani 2013-09-24 13:23 0.0.6       yeoman-generator scaffold framework mvc poylmer
+generator-pot         A generator for Yeoman                                        =zhxx                 2013-08-26 08:01  0.0.0       yeoman-generator
+generator-protractor  A Yeoman code generator for Protractor. Protractor is an end to end test framework for Angular applications built on top of webdriverJS. =andresdomp 2013-09-28 03:29  0.1.7       yeoman-generator yeoman protractor angular test testing
+generator-pugpig      Yeoman Generator for Pugpig                                   =markj                2013-10-02 10:55  2.0.4       yeoman-generator
+generator-pure        YUI Pure generator                                            =sindresorhus         2013-09-17 18:07  0.2.0       yeoman-generator css yui template framework
+generator-quickstarter A HTML5 Boilerplate based Generator, Compass ready           =slovisi              2013-10-04 08:08  0.3.3       yeoman-generator
+generator-react-page  A generator for Yeoman                                        =adrientoulousain     2013-09-06 07:40  0.1.2       yeoman-generator
+generator-release     A release generator for Yeoman                                =kpdecker             2013-10-03 21:31  1.3.0       yeoman-generator bower npm release
+generator-remark      A Yeoman generator for scaffolding Remark presentations       =garbados             2013-09-27 20:02  0.0.2       yeoman-generator
+generator-rendr       A code generator for airbnb rendr                             =tjmehta              2013-09-16 21:46  0.0.9       yeoman-generator, rendr, airbnb rendr, code generator for rendr, yo generator
+generator-requirejs   A generator for Yeoman                                        =danheberden          2013-06-25 19:57  0.2.0       yeoman-generator
+generator-resource-html Front-end scaffold for building O.P.E.N. brands             =lukeaskew            2013-08-30 18:16  0.0.9       yeoman-generator resource agency OPEN brands
+generator-reveal      A Reveal.js generator for Yeoman                              =slara                2013-10-07 02:15  0.1.1       generator-reveal yeoman-generator
+generator-saffron     A Organism Generator for smarter Frontends                    =gisu                 2013-09-20 10:35  1.7.37      yeoman-generator
+generator-saidigitalwordpress A SAI Digital Wordpress project generator for Yeoman  =seabre               2013-07-18 16:45  0.0.3       yeoman-generator
+generator-sails       A Yeoman sails generator largley copied from generator-webapp =colinwren            2013-04-18 18:13  0.0.0       yeoman-generator web app front-end h5bp sails modernizr
+generator-sails-angular A SailsJS / AngularJS generator for Yeoman                  =tehsuck              2013-06-28 15:27  0.0.1       yeoman-generator sails angular sailsjs angularjs
+generator-sapui5      SAP UI5 generator for yeoman                                  =saschakiefer         2013-08-30 15:55  0.1.2       yeoman-generator SAP UI5
+generator-sass-boilerplate A generator for creating customized SASS styles for HTML5 Apps =srsgores            2013-08-07 03:07  0.0.1       yeoman-generator
+generator-server-configs Scaffolds out webserver configuration for various platforms. Goes well with HTML5 Boilerplate. =sindresorhus =necolas =alrra 2013-08-05 06:15 0.2.0       yeoman-generator html boilerplate template server config
+generator-sharepoint  Yeoman generator for scaffolding out SharePoint grunt build system among other stuff =saturate 2013-03-18 15:05  0.0.1       yeoman-generator sharepoint netcompany
+generator-silex       Yeoman generator for scaffolding out a silex app              =adamquadmon          2013-04-20 15:21  0.0.1       yeoman-generator web app front-end silex h5bp modernizr
+generator-sillypog    Yeoman generator for static sites. jQuery & Sass included.    =sillypog             2013-10-03 00:12  0.0.2       yeoman-generator
+generator-simple-angular-app Simple angular app generator                           =luisrudge            2013-08-27 03:46  0.0.9       yeoman-generator angular simple bootstrap karma
+generator-simplebs3   creates a basic site template with bootstrap 3                =sableloki            2013-09-11 02:37  0.8.0       yeoman-generator
+generator-skeleton    Yeoman generator for Skeleton                                 =bauschan             2013-05-14 08:46  0.1.0       yeoman-generator scaffold skeleton
+generator-skeletor    A generator for Yeoman                                        =kuatsure             2013-08-23 03:53  0.1.0       yeoman-generator
+generator-slim        A Yo Generator which sets up a new, on the Slim Framework based, project. =katywings 2013-07-03 15:24  0.10.5      yeoman-generator php slim
+generator-sp2010      Yeoman generator for projects using the SharePoint 2010 REST interface. =sinetheta  2013-03-21 18:51  0.1.0       yeoman-generator sharepoint express
+generator-sp2013      Yeoman generator for scaffolding out a SharePoint 2013 HTML Master & Page Layouts project =kmees 2013-10-08 13:00  0.9.4       yeoman-generator sharepoint sharepoint 2013 sp2013 front-end HTML Master HTML Page Layout WebDavDeployment
+generator-sp2013-bootstrap3 Yeoman generator for scaffolding out a SharePoint 2013 HTML Master & Page Layouts project using Bootstrap 3.0 =thorstenhans 2013-09-14 17:19  0.9.2       yeoman-generator sharepoint sharepoint 2013 sp2013 front-end HTML Master HTML Page Layout WebDavDeployment Bootstrap3
+generator-spboilerplate Yeoman Generator for rwd site with sharepoint boilerplate css =assimilate           2013-05-08 06:00  0.0.1       yeoman-generator sharepoint
+generator-spring      A generator for Spring Boot                                   =tomaslin             2013-10-03 21:36  0.1.1       yeoman-generator
+generator-stacked     A Backbone.js Require.js test driven workflow.                =cl0udc0ntr0l         2013-09-19 21:05  0.1.5       yeoman-generator Backbone.js Require.js Mocha Jasmine, bootstrap backbone require boilerplate backbone require workflow test diven development behavior driven development TDD BDD Grunt Bower twitter workflow
+generator-stamp       Yeoman Generator featuring a flyweight Node.js server, Foundation css framework, and opinionated, yet customizeable javascript architecture. =kyledetella 2013-10-01 13:27  0.9.6       yeoman-generator amd requirejs foundation backbone scaffold grunt handlebars
+generator-standalone-umd A generator for Yeoman                                     =gtdev                2013-09-04 12:46  0.0.0       yeoman-generator
+generator-starter     A website starter generator for Yeoman                        =tinkertrain          2013-09-02 15:44  0.9.1       yeoman-generator kickstart website sass livereload html5boilerplate
+generator-starttter   A website boilerplate generator for Yeoman, based off starttter =ttt                2013-09-19 23:59  0.2.4       yeoman-generator starttter website
+generator-static      Yeoman Generator for a basic front-end project workflow       =pollen               2013-08-22 03:33  0.0.8       yeoman-generator
+generator-steroids    A Yeoman generator for Steroids                               =harsaharsa           2013-10-04 13:33  0.1.1       yeoman-generator steroids-js steroids
+generator-style-prototype Yeoman generator for style prototypes                     =snugug               2013-10-08 04:10  1.0.0-alpha.1 yeoman-generator web app front-end design-in-browser style-guide sass
+generator-styleinjector A generator for a style-injecting setup                     =shakyshane           2013-08-01 22:07  0.0.1       yeoman-generator live-reload
+generator-stylish     A generator for creating custom Stylish themes through the addon for Firefox and Chrome =srsgores 2013-07-30 05:21  0.0.1       yeoman-generator
+generator-suit        Generator for scaffolding out a SUIT component or utility     =necolas              2013-08-23 06:16  0.1.0       css generator suit web yeoman-generator
+generator-tachi       A Yeoman generator for Tachi                                  =edj                  2013-06-16 19:17  0.0.2       yeoman-generator tachi
+generator-tamurine    A generator for Yeoman                                        =tamurine             2013-10-02 16:07  0.0.0       yeoman-generator
+generator-tbc         generator for TBC                                             =abc-team             2013-09-16 07:39  0.2.9       yeoman-generator ABC TBC
+generator-testacular  Yeoman generator for Testacular                               =sindresorhus =addyosmani =paulirish =btford 2013-03-20 16:18 0.1.1       yeoman-generator yeoman generator test runner
+generator-thorax      A Thorax generator for Yeoman                                 =eastridge            2013-09-12 20:47  0.0.2       thorax generator yeoman-generator
+generator-threejs-boilerplate A generator for Yeoman                                =jetienne             2013-08-15 16:06  0.0.0       yeoman-generator
+generator-threex-extension A generator for Yeoman                                   =jetienne             2013-08-15 16:26  0.0.0       yeoman-generator
+generator-titanium    A generator for Yeoman                                        =bradleycorn          2013-09-05 19:52  0.1.0       yeoman-generator titanium appcelerator yeoman generator cli
+generator-tmlib       A Tmlib generator for Yeoman                                  =yosuke-furukawa      2013-07-08 01:33  0.0.6       yeoman-generator tmlib socket.io
+generator-tobirama    A generator for Yeoman, this generator create a codeigniter (php framework) structure. =tisvasconcelos 2013-08-27 17:37  0.0.2       yeoman-generator codeigniter php
+generator-topcoat     A Topcoat generator for Yeoman                                =piatra               2013-05-17 14:42  0.0.0       yeoman-generator
+generator-traceur     A traceur generator for Yeoman                                =mikach               2013-09-15 21:14  0.0.4       yeoman-generator traceur esnext
+generator-travis-ci   Yeoman generator that sets up travis-ci to do automated github pages deployment on every commit. =pwmckenna 2013-07-18 01:13  0.6.3       yeoman-generator yeoman generator travis-ci travis github gh-pages
+generator-trend       A generator for Yeoman, create trend style project            =iskenhuang           2013-09-18 03:19  0.0.13      yeoman-generator trend
+generator-tsangular   Yeoman generator for AngularJS with TypeScript templates      =speedshifter         2013-07-30 09:47  0.1.5       yeoman-generator scaffold framework component front-end typescript angular app
+generator-tumblr      Yeoman generator for scaffolding and testing a Tumblr theme   =moore                2013-07-02 05:14  0.0.1       yeoman-generator tumblr theme front-end yeoman grunt
+generator-uick-component Yeoman generator for uick                                  =vieron               2013-09-22 19:04  0.0.1       yeoman-generator
+generator-ultimate    ULTIMATE Yeoman generator for ultimate-seed - full-stack AngularJS + Node.js/Express seed that makes web developers insanely productive. =pilwon 2013-09-28 10:25  0.3.1       yeoman-generator javascript node.js seed angular angular-ui source-maps bootstrap bower browserify font-awesome express grunt handlebars jquery jshint karma mocha less less-hat livereload lodash underscore modernizr mongodb mongoose passport facebook google twitter redis hiredis socket.io uglify winston
+generator-vtexproject Gera a estrutura de projetos para a plataforma Vtex.          =ricardodantas        2013-06-18 03:44  1.0.20      yeoman-generator
+generator-wakanda     A generator for Yeoman                                        =andrewshawcare       2013-06-25 18:34  0.2.0       yeoman-generator wakanda
+generator-webapp      Scaffold out a front-end web app                              =sindresorhus =passy =addyosmani =paulirish 2013-09-25 17:15 0.4.3       yeoman-generator web app front-end h5bp modernizr
+generator-webapp-bfytw Yeoman generator based on generator-webapp.                  =sashasklar           2013-06-03 17:30  0.1.4       yeoman-generator web app front-end h5bp modernizr
+generator-webapp-fintan A generator for Yeoman                                      =fintan               2013-09-26 20:53  0.0.3       yeoman-generator
+generator-weblog      A weblog (blog) generator for Yeoman                          =stephenplusplus      2013-07-22 20:55  0.0.5       yeoman-generator blog weblog markdown github github pages gh-pages
+generator-website     A website generator for Yeoman                                =roman01la            2013-05-23 04:14  0.1.0       yeoman-generator
+generator-websites    Yeoman generator for web-web-web-websites                     =patrickpietens       2013-10-03 10:07  0.0.1       yeoman-generator jquery backbone underscore requirejs mustache
+generator-wix-angular Yeoman generator for AngularJS, Wix style (forked from generator-angular) =shahata  2013-09-13 01:43  0.1.6       yeoman-generator scaffold framework component front-end app
+generator-wordpress   A Yeoman generator for WordPress                              =wesleytodd           2013-09-14 21:23  1.1.3       yeoman-generator wordpress yeoman generator cli
+generator-wordpress-plugin A Yeoman generator for creating new Wordpress plugins    =srsgores             2013-08-07 23:24  0.0.0       yeoman-generator
+generator-wp          A WordPress generator for Yeoman                              =tikot                2013-09-09 07:07  0.1.3       yeoman-generator wordpress install wordpress generator
+generator-wp-plugin   Yeoman generator for Wordpress plugin                         =muhammadghazali      2013-09-05 09:30  0.1.1       yeoman-generator
+generator-wpwidget    A generator for Yeoman - Create Wordpress Widget base code    =acatl                2013-06-27 22:14  0.1.3       yeoman-generator wordpress widget
+generator-wt          A generator for Yeoman                                        =aloysious            2013-06-19 07:37  0.1.1       yeoman-generator
+generator-xf          Yeoman generator for X-Framework                              =larchanka            2013-09-10 10:46  0.1.4       yeoman-generator x-framework framework
+generator-xframework  Yeoman generator for X-Framework                              =larchanka            2013-07-29 13:07  0.0.0       yeoman-generator x-framework framework
+generator-xtc         A generator for xtc projects                                  =marcdiethelm         2013-09-19 11:16  0.7.0       yeoman-generator xtc
+generator-yaml4       Yeoman generator YAML4-Sass                                   =bauschan             2013-06-18 09:31  0.2.0       yeoman-generator scaffold yaml4.1 yaml sass
+generator-yawa        Scaffold out a front-end web app                              =jparker              2013-09-21 14:11  0.4.6       yeoman-generator web app front-end h5bp modernizr groundwork bootstrap assemble
+generator-yo-wordpress Yeoman generator for Wordpress projects and plugins          =romainberger         2013-09-07 22:33  1.4.4       yeoman yeoman-generator yo wordpress generator cli tool cms development
+generator-yui         A YUI generator for Yeoman                                    =tomlane              2013-05-18 19:47  0.0.1       yeoman-generator yui3
+generator-zurb-foundation Yeoman generator for Zurb Foundation 4                    =bauschan             2013-09-18 18:55  0.3.2       yeoman-generator scaffold foundation rwd zurb dalekjs
+gram                  A generator for Yeoman                                        =kuninori             2013-09-06 14:04  0.0.1       yeoman-generator
+imatic-stack          Imatic devel stack for single-page applications               =jakubmrozek          2013-03-07 15:27  0.0.1       yeoman-generator generator-angular yeoman typescript generator framework component front-end app
+neat-starter-template A boilerplate containing HTML5 boilerplate, bourbon, neat and parts of pure.css =sashmac 2013-08-24 23:36  0.1.0       yeoman-generator bourbon neat pure boilerplate
+yeoman-generator      Rails-inspired generator system that provides scaffolding for your apps =sindresorhus =addyosmani =paulirish =passy 2013-09-06 20:46 0.13.4      development dev build tool cli scaffold generate
+yeomania              This tool can create yeoman-generator test folder and make it clean. =yosuke-furukawa 2013-07-13 05:12  0.0.2       yeoman tool

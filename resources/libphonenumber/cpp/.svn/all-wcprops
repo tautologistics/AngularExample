@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/619/trunk/cpp
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/338/trunk/cpp/LICENSE
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/603/trunk/cpp/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/583/trunk/cpp/README
+END

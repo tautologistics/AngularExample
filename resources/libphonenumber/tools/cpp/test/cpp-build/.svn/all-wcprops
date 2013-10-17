@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/490/trunk/tools/cpp/test/cpp-build
+END
+generate_geocoding_data_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/490/trunk/tools/cpp/test/cpp-build/generate_geocoding_data_test.cc
+END
+run_tests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/476/trunk/tools/cpp/test/cpp-build/run_tests.cc
+END

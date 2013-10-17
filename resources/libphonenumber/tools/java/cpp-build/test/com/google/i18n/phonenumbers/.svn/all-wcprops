@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/507/trunk/tools/java/cpp-build/test/com/google/i18n/phonenumbers
+END
+BuildMetadataCppFromXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/507/trunk/tools/java/cpp-build/test/com/google/i18n/phonenumbers/BuildMetadataCppFromXmlTest.java
+END
+CppMetadataGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/507/trunk/tools/java/cpp-build/test/com/google/i18n/phonenumbers/CppMetadataGeneratorTest.java
+END

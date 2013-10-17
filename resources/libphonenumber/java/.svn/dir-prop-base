@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 51
+build
+out
+Libphonenumber.iml
+.idea
+.project
+target
+
+END

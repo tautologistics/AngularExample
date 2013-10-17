@@ -1,0 +1,50 @@
+$iconSpritePath: "../images/glyphicons-halflings.png";
+$iconWhiteSpritePath: "../images/glyphicons-halflings-white.png";
+
+@import "bootstrap-sass/lib/bootstrap";
+
+/* Put your CSS here */
+html, body {
+  margin: 20px;
+}
+
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+#search .select2-container  {
+    width: 50%;
+}
+
+.help-block {
+    font-size: 0.8em;
+}
+
+form {
+    input, textarea {
+        width: 50%;
+    }
+    textarea {
+        height: 5em;
+    }
+}
+
+.app-archive {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0.2em;
+    text-align: center;
+    border-bottom: 1px solid #bbb;
+    background-color: #ddd;
+
+    a {
+        color: #559;
+        text-decoration: none;
+    }
+}

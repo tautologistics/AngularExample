@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/synchronization
+END
+lock_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/synchronization/lock_posix.h
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/synchronization/lock.h
+END

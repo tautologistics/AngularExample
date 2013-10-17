@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 74
+classes
+test-classes
+archive-tmp
+surefire
+surefire-reports
+maven-archiver
+
+END

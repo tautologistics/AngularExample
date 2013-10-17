@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/616/trunk/java/internal/prefixmapper/test/com/google/i18n/phonenumbers/prefixmapper
+END
+PrefixFileReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/612/trunk/java/internal/prefixmapper/test/com/google/i18n/phonenumbers/prefixmapper/PrefixFileReaderTest.java
+END
+PhonePrefixMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/612/trunk/java/internal/prefixmapper/test/com/google/i18n/phonenumbers/prefixmapper/PhonePrefixMapTest.java
+END
+FlyweightMapStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/612/trunk/java/internal/prefixmapper/test/com/google/i18n/phonenumbers/prefixmapper/FlyweightMapStorageTest.java
+END
+MappingFileProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/612/trunk/java/internal/prefixmapper/test/com/google/i18n/phonenumbers/prefixmapper/MappingFileProviderTest.java
+END
+PrefixTimeZonesMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/616/trunk/java/internal/prefixmapper/test/com/google/i18n/phonenumbers/prefixmapper/PrefixTimeZonesMapTest.java
+END

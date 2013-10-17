@@ -1,0 +1,54 @@
+.well
+    #search
+        label(for='inputSearch') Search contacts
+        select#inputSearch(ui-select2='select2cfg', ng-model='selectedContact', data-placeholder='Search for a contact', data-allow-clear='true')
+          option(value='')
+          option(ng-repeat='contact in contacts', value='{{contact.id}}') {{formatSearchResult(contact)}}
+
+form.well(name='contactForm', novalidate='novalidate')
+  .form-group
+    label(for='inputContactName') Contact Name
+    input#inputContactName.form-control(type='text', name='contactName', placeholder='Enter contact name', ng-model='currentContact.contactName', maxlength='30', ng-maxlength='30', ng-required='true')
+
+    //TODO: make this a directive 
+    span.text-error(ng-show='contactForm.contactName.$dirty')
+      span(ng-show='contactForm.contactName.$error.required') Field is required
+  .form-group
+    label(for='inputCompanyName') Company Name
+    input#inputCompanyName.form-control(type='text', name='companyName', placeholder='Enter company name', ng-model='currentContact.companyName', maxlength='30', ng-maxlength='30', ng-required='true')
+
+    //TODO: make this a directive 
+    span.text-error(ng-show='contactForm.companyName.$dirty')
+      span(ng-show='contactForm.companyName.$error.required') Field is required
+  .form-group
+    label(for='inputAddress') Address
+    textarea#inputAddress.form-control(name='address', placeholder='Enter mailing address', ng-model='currentContact.address', maxlength='50', ng-maxlength='50')
+  .form-group
+    label(for='inputEmail') Email
+    input#inputEmail.form-control(type='email', name='email', placeholder='Enter contact email address', ng-model='currentContact.email', maxlength='30', ng-maxlength='30', ng-required='!currentContact.phone && !currentContact.url')
+
+    //TODO: make this a directive 
+    span.text-error(ng-show='contactForm.email.$dirty')
+      span(ng-show='contactForm.email.$error.email') Not a valid email address
+      span(ng-show='contactForm.email.$error.required') Field is required
+  .form-group
+    label(for='inputPhone') Phone Number
+    input#inputPhone.form-control(type='tel', name='phone', placeholder='Enter contact phone number', ng-model='currentContact.phone', ng-pattern='phoneRegex', ng-minlength='7', ng-required='!currentContact.email && !currentContact.url')
+
+    //TODO: make this a directive 
+    span.text-error(ng-show='contactForm.phone.$dirty')
+      span(ng-show='contactForm.phone.$error.pattern') Unrecognized format
+      span(ng-show='contactForm.phone.$error.required') Field is required
+      span(ng-show='contactForm.phone.$error.minlength') Entered phone number is too short
+  .form-group
+    label(for='inputUrl') Website
+    input#inputUrl.form-control(type='url', name='url', placeholder='Enter website URL', ng-model='currentContact.url', ng-maxlength='30', ng-required='!currentContact.phone && !currentContact.email')
+
+    //TODO: make this a directive 
+    span.text-error(ng-show='contactForm.url.$dirty')
+      span(ng-show='contactForm.url.$error.url') Not a valid URL
+      span(ng-show='contactForm.url.$error.required') Field is required
+
+  button.btn.btn-default.btn-success(ng-show='!!currentContact.id', ng-click='updateContact(currentContact, contactForm)', ng-disabled='!contactForm.$valid', ng-class='{ disabled: !contactForm.$valid }') Update
+  button.btn.btn-default.btn-success(ng-show='!currentContact.id', ng-click='addContact(currentContact, contactForm)', ng-disabled='!contactForm.$valid', ng-class='{ disabled: !contactForm.$valid }') Create
+  button.btn.btn-default.btn-danger(ng-click='clearContact(contactForm)') Clear

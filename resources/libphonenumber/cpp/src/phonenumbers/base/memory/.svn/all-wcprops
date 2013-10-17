@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/memory
+END
+scoped_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/571/trunk/cpp/src/phonenumbers/base/memory/scoped_ptr.h
+END
+singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/memory/singleton.h
+END
+singleton_posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/583/trunk/cpp/src/phonenumbers/base/memory/singleton_posix.h
+END
