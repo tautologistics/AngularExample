@@ -1,8 +1,8 @@
 Running in development
 =========
 ```
-unzip app.zip
-cd app/
+git clone https://github.com/tautologistics/AngularExample
+cd AngularExample/
 gem install compass
 npm install -g yo
 npm install
